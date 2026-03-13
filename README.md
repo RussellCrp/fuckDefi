@@ -1,4 +1,4 @@
-# pledgeV2
+# fuckfiV2
 fuckfi V2 contract
 
 ## 1️⃣ 系统概述
@@ -7,13 +7,13 @@ fuckfi V2 contract
 Maker: 抵押资产获取稳定币DAI  [详情](https://docs.makerdao.com/smart-contract-modules/dai-module)  
 Aave: 加密货币借贷协议  [详情](https://aave.com/docs/developers/smart-contracts)  
 Compound: 加密货币借贷协议  [详情](https://docs.compound.finance/#protocol-contracts)  
-Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的借贷协议，主要服务于加密资产持有者。Pledge 旨在解决 DeFi 借贷市场中缺乏固定利率和固定期限融资产品的问题。传统的 DeFi 借贷协议通常采用可变利率，主要服务于短期交易者，而 Pledge 则专注于长期融资需求。以下是对 Pledge 项目的详细分析：
+fuckfi 是一个去中心化金融（DeFi）项目，旨在提供固定利率的借贷协议，主要服务于加密资产持有者。Pledge 旨在解决 DeFi 借贷市场中缺乏固定利率和固定期限融资产品的问题。传统的 DeFi 借贷协议通常采用可变利率，主要服务于短期交易者，而 fuckfi 则专注于长期融资需求。以下是对 fuckfi 项目的详细分析：
 
 ## 2️⃣ 功能需求
 
 ### 2.1 核心功能
 
-- **固定利率借贷**: Pledge 提供固定利率的借贷服务，减少利率波动带来的风险。
+- **固定利率借贷**: fuckfi 提供固定利率的借贷服务，减少利率波动带来的风险。
 - **去中心化 Dex 交易**(核心)。
 
 ### 2.2 主要角色
@@ -28,7 +28,7 @@ Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的
 
 ## 3️⃣ 代码分析
 
-PledgePool.sol 是 Pledge 项目的核心智能合约之一，主要功能包括：
+PledgePool.sol 是 fuckfi 项目的核心智能合约之一，主要功能包括：
 
 ### 3.1 Pool
 
